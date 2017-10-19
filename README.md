@@ -1,2 +1,2 @@
 # libsrtp-arm-prebuilt
-Prebuilt Libsrtp for arm-64 by CISCO.
+Prebuilt Libsrtp for arm android by CISCO.
